@@ -219,6 +219,7 @@ Made with Electron.
 - [electron-is](https://github.com/delvedor/electron-is) - Useful 'is' utility functions.
 - [electron-osx-appearance](https://github.com/danhp/electron-osx-appearance) - Simplified API for accessing OS X's appearance settings.
 - [electron-config](https://github.com/sindresorhus/electron-config) - Persist user settings and other data.
+- [evm](https://github.com/fritx/evm) - Electron Version Manager.
 
 ### Using Electron
 
